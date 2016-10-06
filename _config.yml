@@ -1,21 +1,33 @@
-typography_spectrum: 0.001565314
+description: Enjoying the journey of life after 50
+title: Life In 3 Courses
+github: true
+layout_spectrum: 0.4671578
+name: Life In 3 Courses
+opengraph:
+  type: 'https://www.facebook.com/Lifein3Courses/photos'
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.4163845
   brandStrength: 0.4200695
-  saturation: 0.9601704
-  rhythmicContrast: 0.984846
+  lightness: 0.2639123
+  saturation: 0.9772344
+  rhythmicContrast: 0.7057335
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-github: true
-opengraph:
-  type: 'https://www.facebook.com/Lifein3Courses/photos'
-layout_spectrum: 0.4671578
+typography_spectrum: 0.9021922
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b786bf57-071d-4a39-b06d-4dd9c975570a.jpg
-name: Life In 3 Courses
-title: Life In 3 Courses
-description: Enjoying the journey of life after 50
