@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-10-08T19:34:41.489Z'
+datePublished: '2016-10-08T19:39:03.339Z'
+sourcePath: _posts/2016-10-08-health-and-wellness.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T19:33:53.650Z'
+dateModified: '2016-10-08T19:39:02.847Z'
 title: Health and Wellness
 publisher: {}
 description: >-
@@ -16,8 +18,8 @@ description: >-
   disabled or I could take charge of my life. I decided I wasn't quite ready to
   give up on life.
 starred: false
-sourcePath: _posts/2016-10-08-health-and-wellness.md
-_type: Blurb
+url: health-and-wellness/index.html
+_type: Article
 
 ---
 # Health and Wellness
