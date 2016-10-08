@@ -16,6 +16,10 @@ opengraph:
 layout_spectrum: 0.4671578
 logo: null
 name: Life In 3 Courses
+navigation:
+  - name: Health and Wellness
+    id: 65d2a26f-0f6a-4fd4-a874-96333cb9e765
+    type: content
 collections:
   - index:
       navigable: true
