@@ -1,7 +1,8 @@
+content: []
 description: Enjoying the journey of life after 50
 title: Life In 3 Courses
 github: true
-layout_spectrum: 0.4671578
+layout_spectrum: 0.8114035
 name: Life In 3 Courses
 opengraph:
   type: 'https://www.facebook.com/Lifein3Courses/photos'
@@ -19,9 +20,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.4200695
-  lightness: 0.2639123
-  saturation: 0.9772344
-  rhythmicContrast: 0.7057335
+  lightness: 0.01691729
+  saturation: 0.2255639
+  rhythmicContrast: 0.2725564
   brandColors:
     - '#A690A4'
     - '#B68F9D'
