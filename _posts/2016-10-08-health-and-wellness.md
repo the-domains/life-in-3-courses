@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-08T19:39:03.339Z'
+datePublished: '2016-10-08T19:42:08.647Z'
 sourcePath: _posts/2016-10-08-health-and-wellness.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T19:39:02.847Z'
+dateModified: '2016-10-08T19:42:08.143Z'
 title: Health and Wellness
 publisher: {}
 description: >-
