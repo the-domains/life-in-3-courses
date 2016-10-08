@@ -1,19 +1,19 @@
-typography_spectrum: 0.9021922
+layout_spectrum: 0.5532574549515612
+typography_spectrum: 0.9477803611321983
 color:
-  brandStrength: 0.4200695
-  lightness: 0.2639123
-  saturation: 0.9772344
-  rhythmicContrast: 0.7057335
+  brandStrength: 0.45016506490214625
+  lightness: 0.5234288531561189
+  saturation: 0.1648665110469049
+  rhythmicContrast: 0.08781473487910658
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 github: true
 opengraph:
   type: 'https://www.facebook.com/Lifein3Courses/photos'
-layout_spectrum: 0.4671578
 logo: null
 name: Life In 3 Courses
 navigation:
