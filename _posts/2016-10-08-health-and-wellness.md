@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-08T19:42:08.647Z'
+datePublished: '2016-10-08T20:17:38.714Z'
 sourcePath: _posts/2016-10-08-health-and-wellness.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T19:42:08.143Z'
+dateModified: '2016-10-08T20:17:38.232Z'
 title: Health and Wellness
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ url: health-and-wellness/index.html
 _type: Article
 
 ---
-# Health and Wellness
+## Health and Wellness
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ab85dec-125a-44f8-949b-8cb869358911.jpg)
 
 There comes a time in your life when your body begins to rebel against excess and neglect. Over the last few years my health declined to such a degree that when I wasn't working I was bedridden. Fibromyalgia, auto-immune disorder, and the inevitable depression that comes with these types of illnesses had made me a prisoner in my own body. I gained over 50 pounds and continued to decline. I finally came to the end of my rope. I could either quite my job and be fully disabled or I could take charge of my life. I decided I wasn't quite ready to give up on life.
