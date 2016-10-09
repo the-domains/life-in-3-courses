@@ -8,7 +8,7 @@ navigation:
   - id: 4976aa0a-6ac7-4c4e-a048-c0012671462b
     name: Lifestyle
     type: content
-layout_spectrum: 0.5532574549515612
+layout_spectrum: 0.6986216
 github: true
 name: Life In 3 Courses
 opengraph:
@@ -27,14 +27,14 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.4501650649021463
-  lightness: 0.5234289
   saturation: 0.7117795
-  rhythmicContrast: 0.7155389
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+  lightness: 0.5234289
+  rhythmicContrast: 0.7155389
 typography_spectrum: 0.7763158
 logo: null
